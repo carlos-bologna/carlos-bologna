@@ -1,4 +1,4 @@
-# Bem-vindo(A), 
+# Bem-vindo(a), 
 
 Aqui você encontra meus repositórios, na verdade este lugar é minha bancada de trabalho para novas experiências, então me desculpe caso encontre algum repositório meio bagunçado, é que realmente utilizo-os nas minhas descobertas do dia-a-dia.
 
