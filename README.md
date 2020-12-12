@@ -1,4 +1,6 @@
-Bem-vindo, este é meu repositório, minha bancada de trabalho de novas experiências. Me desculpe caso encontre algum repositório meio bagunçado, é que realmente utilizo-os nas minhas descobertas do dia-a-dia.
+# Bem-vindo(A), 
+
+Aqui você encontra meus repositórios, na verdade este lugar é minha bancada de trabalho para novas experiências, então me desculpe caso encontre algum repositório meio bagunçado, é que realmente utilizo-os nas minhas descobertas do dia-a-dia.
 
 
 Sou brasileiro, nascido em uma cidade do interior do estado de São Paulo. Há muito tempo moro em São Paulo capital, cidade que sempre foi minha cidade do coração. Aqui é o lugar aonde as coisas acontecem (pelo menos no Brasil).
