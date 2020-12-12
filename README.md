@@ -1,16 +1,14 @@
-### Hi there 👋
+Bem-vindo, este é meu repositório, minha bancada de trabalho de novas experiências. Me desculpe caso encontre algum repositório meio bagunçado, é que realmente utilizo-os nas minhas descobertas do dia-a-dia.
 
-<!--
-**carlos-bologna/carlos-bologna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Sou brasileiro, nascido em uma cidade do interior do estado de São Paulo. Há muito tempo moro em São Paulo capital, cidade que sempre foi minha cidade do coração. Aqui é o lugar aonde as coisas acontecem (pelo menos no Brasil).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Atualmente, trabalho como cientista de dados em uma das maiores instituições bancárias do meu país. Minha formação é de análista de sistemas. A transição para a área de Big Data, machine leraning e inteligência artificiar foi tão natural para mim que, quando me dei conta, já estava imerso nesse novo universo.
+
+
+Você pode checar minha trajetória (caso queira) pelo LinkedIn.
+
+
+Sinta-se à vontade em entrar em contato comigo, caso queira tirar alguma dúvida, se eu me lembrar de como fiz, certamente terei o prazer de compartilhar com você.
+
