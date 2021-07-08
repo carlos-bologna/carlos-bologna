@@ -6,7 +6,7 @@ What I use for this is: a huge amount of data, curiosity, creativity, willingnes
 
 ## Tech Stack
 
-![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=spark&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=sparkfun&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Deploy-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
