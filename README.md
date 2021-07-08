@@ -8,7 +8,7 @@ What I use for this is: a huge amount of data, curiosity, creativity, willingnes
 
 ![](https://img.shields.io/badge/BigData-Spark-informational?style=for-the-badge&logo=apache%20spark&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/BigData-Hive-informational?style=for-the-badge&logo=apache%20hive&logoColor=white&color=blue)
-![](https://img.shields.io/badge/AI-Scikit-Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=blue)
+![](https://img.shields.io/badge/AI-Scikit_Learn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/AI-Pytorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&logoColor=white&color=blue)
