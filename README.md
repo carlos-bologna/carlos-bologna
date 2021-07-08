@@ -6,14 +6,14 @@ What I use for this is: a huge amount of data, curiosity, creativity, willingnes
 
 ## Tech Stack
 
-![](https://img.shields.io/badge/BigData-Spark-informational?style=flat&logo=apache%20spark&logoColor=white&color=blue)
-![](https://img.shields.io/badge/BigData-Hive-informational?style=flat&logo=apache%20hive&logoColor=white&color=blue)
-![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=blue)
-![](https://img.shields.io/badge/AI-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Deploy-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Deploy-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=blue)
+![](https://img.shields.io/badge/BigData-Spark-informational?style=for-the-badge&logo=apache%20spark&logoColor=white&color=blue)
+![](https://img.shields.io/badge/BigData-Hive-informational?style=for-the-badge&logo=apache%20hive&logoColor=white&color=blue)
+![](https://img.shields.io/badge/AI-ScikitLearn-informational?style=for-the-badge&logo=scikit-learn&logoColor=white&color=blue)
+![](https://img.shields.io/badge/AI-Pytorch-informational?style=for-the-badge&logo=pytorch&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Deploy-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Deploy-Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon%20aws&logoColor=white&color=blue)
 
 
