@@ -17,7 +17,7 @@ What I use for this is: a huge amount of data, curiosity, creativity, willingnes
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=for-the-badge&logo=amazon%20aws&logoColor=white&color=blue)
 
 
-In my work day, in general I use Spark (Pyspark), Python and AWS to solve problems, using data. Here in my GitHub, you will see more often, some Python codes that I made just to have fun. Like the that one where I play Atari using Deep Reinforcement Learning. That was really awesome.
+In my work day, in general I use Spark (Pyspark), Python on AWS or GCP to solve problems, using data. Here in my GitHub, you will see more often, some Python codes that I made just to have fun. Like the that one where I play Atari using Deep Reinforcement Learning. That was really awesome.
 You can find something usefull too. Like the AutoML project where you can train a model with a simple command line. In this one, I use Python for Machine Learning and Rust for Orchestrator (just because I wanted to learn any new language and because Rust is good with parallel process).
 
 Sorry about don't give the projects link, I am organizing my repos a little bit better and I'll do that ASAP.
